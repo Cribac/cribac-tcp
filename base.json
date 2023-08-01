@@ -1,0 +1,38 @@
+{
+  "woodland": [
+    {
+      "name": "RamboGreen",
+      "hex": "4F6A4E"
+    }
+  ],
+  "desert": [
+    {
+      "name": "CommandoTan",
+      "hex": "D2B48C"
+    }
+  ],
+  "action": [
+    {
+      "name": "ActionOrange",
+      "hex": "EF5316"
+    }
+  ],
+  "homebase": [
+    {
+      "name": "AllBlack",
+      "hex": "000000"
+    },
+    {
+      "name": "AllWhite",
+      "hex": "FFFFFF"
+    },
+    {
+      "name": "ShadowBlack",
+      "hex": "111811"
+    },
+    {
+      "name": "HonourWhite",
+      "hex": "FFF9F1"
+    }
+  ]
+}
