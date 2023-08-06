@@ -4,28 +4,28 @@ Like Mall Ninja tactical ;)
 
 #### woodland/RamboGreen
 
-<div style="width: 140px; height:100px; background: #4F6A4E;"></div>
+![#4F6A4E](https://placehold.co/80x60/4F6A4E/FFF9F1/svg?text=%234F6A4E)
 
 #### desert/CommandoTan
 
-<div style="width: 140px; height:100px; background: #D2B48C;"></div>
+![#D2B48C](https://placehold.co/80x60/D2B48C/060907/svg?text=%23D2B48C)
 
 #### action/ActionOrange
 
-<div style="width: 140px; height:100px; background: #EF5316;"></div>
+![#EF5316](https://placehold.co/80x60/EF5316/FFF9F1/svg?text=%23EF5316)
 
 #### homebase/AllBlack
 
-<div style="width: 140px; height:100px; background: #000000;"></div>
+![#000000](https://placehold.co/80x60/000000/FFF9F1/svg?text=%23000000)
 
 #### homebase/ShadowBlack
 
-<div style="width: 140px; height:100px; background: #060907;"></div>
+![#060907](https://placehold.co/80x60/060907/FFF9F1/svg?text=%23060907)
 
 #### homebase/AllWhite
 
-<div style="width: 140px; height:100px; background: #FFFFFF;"></div>
+![#FFFFFF](https://placehold.co/80x60/FFFFFF/060907/svg?text=%23FFFFFF)
 
 #### homebase/HonourWhite
 
-<div style="width: 140px; height:100px; background: #FFF9F1;"></div>
+![#FFF9F1](https://placehold.co/80x60/FFF9F1/060907/svg?text=%23FFF9F1)
