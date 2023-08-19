@@ -11,6 +11,12 @@
       "hex": "D2B48C"
     }
   ],
+  "urban": [
+    {
+      "name": "GunmetalGrey",
+      "hex": "3F4249"
+    }
+  ],
   "action": [
     {
       "name": "ActionOrange",
